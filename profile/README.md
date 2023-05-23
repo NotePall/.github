@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Note Taking App
+# NotePall: Note Taking App
 
 Welcome to our note-taking application! This is a simple and easy-to-use app designed to help you quickly capture your thoughts, ideas, and reminders, so you can stay organized and focused throughout your day.
 
